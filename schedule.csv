@@ -1,0 +1,7 @@
+slot,congestion_w,velocity_m_s,fill_time_s,power_w,power_saved_w,monthly_saving_krw,action
+05-09 pre-morning,0.21,0.5,440.6,91.76,373.52,3586,reduce by 1.885 m/s
+09-12 morning,0.58,1.15,191.6,213.9,251.38,2941,reduce by 1.235 m/s
+12-14 midday,0.37,0.75,293.7,138.21,327.07,2551,reduce by 1.635 m/s
+14-18 afternoon peak,0.99,2.385,92.4,465.28,0.0,0,"hold (peak, throughput priority)"
+18-23 evening,0.79,1.85,119.1,352.37,112.91,2202,reduce by 0.535 m/s
+23-05 overnight,0.01,0.4,550.7,73.32,391.96,5644,reduce by 1.985 m/s
